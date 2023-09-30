@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bido Collections</string>
+    <string name="product_name">Luggage bag</string>
+    <string name="product_price">UGX 50,000</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="category">Electronics</string>
+</resources>
